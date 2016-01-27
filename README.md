@@ -6,10 +6,6 @@ Comunidade Javascript e Frontend em Joinville
 
 Dê uma olhada nos eventos que vão rolar [aqui :tada:](https://github.com/joinvillejs-org/joinvillejs-org/blob/master/Eventos.md)
 
-## Meetup
-
-Entre no nosso grupo no meetup.com [aqui](http://www.meetup.com/pt/joinvillejs-org/).
-
 ## Como contribuir
 
 Veja como você pode contribuir [aqui](https://github.com/joinvillejs-org/joinvillejs-org/blob/master/CONTRIBUTING.md).
