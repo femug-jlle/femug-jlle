@@ -4,7 +4,7 @@ Comunidade Javascript e Frontend em Joinville
 
 ## Eventos
 
-Dê uma olhada nos eventos que vão rolar [aqui :tada:](https://github.com/joinvillejs-org/joinvillejs-org/blob/master/Eventos.md)
+Dê uma olhada nos eventos que vão rolar [aqui :tada:](https://github.com/joinvillejs-org/joinvillejs-org/blob/master/EVENTOS.md)
 
 ## Como contribuir
 
