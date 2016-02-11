@@ -1,4 +1,4 @@
-# FEMUG JLLE [![Join the chat at https://gitter.im/joinvillejs-org/joinvillejs-org](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/joinvillejs-org/joinvillejs-org?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# FEMUG JLLE [![Slack Status](https://femug-jlle-slack.herokuapp.com/badge.svg)](https://femug-jlle-slack.herokuapp.com)
 
 Entre no nosso grupo do meetup [aqui](https://meetup.com/femug-jlle).
 
