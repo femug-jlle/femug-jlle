@@ -21,5 +21,6 @@
 #### O CSS de Amanhã
 
 - Palestrante: Luiz Fernando
+- Slide: https://speakerdeck.com/fernahh/o-css-de-amanha-at-number-femugjlle
 
 
