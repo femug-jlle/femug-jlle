@@ -1,5 +1,7 @@
 # #1º FEMUG-JLLE 
 
+<img src="https://github.com/femug-jlle/femug-jlle/blob/master/meetups/janeiro/CbroQ4QWwAIvcCH.jpg" />
+
 - **Data**:20/02
 - **Local**: ContaAzul
 - **Participantes**: 50 pessoas
