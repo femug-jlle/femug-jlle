@@ -1,4 +1,6 @@
-# FEMUG JLLE [![Slack Status](https://femug-jlle-slack.herokuapp.com/badge.svg)](https://femug-jlle-slack.herokuapp.com)
+<img src="https://github.com/femug-jlle/femug-jlle/blob/master/rsz_femug-jlle.png" />
+
+[![Slack Status](https://femug-jlle-slack.herokuapp.com/badge.svg)](https://femug-jlle-slack.herokuapp.com)
 
 Entre no nosso grupo do meetup [aqui](https://meetup.com/femug-jlle).
 
